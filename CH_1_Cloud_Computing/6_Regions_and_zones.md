@@ -1,0 +1,3 @@
+- Each region is split into "zones".
+- we pay a toll for transferring data between zones.
+- the hierarchy can be far more complex than region -> zone
